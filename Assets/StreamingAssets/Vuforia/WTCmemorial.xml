@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="S68_4" size="0.700000 0.525000" />
+    <ImageTarget name="S68_3" size="0.700000 0.525000" />
+    <ImageTarget name="S68_2" size="0.700000 0.525000" />
+    <ImageTarget name="S68_1" size="0.700000 0.525000" />
+    <ImageTarget name="S67_4" size="0.700000 0.525000" />
+    <ImageTarget name="S67_3" size="0.700000 0.525000" />
+    <ImageTarget name="S67_2" size="0.700000 0.525000" />
+    <ImageTarget name="S67_1" size="0.700000 0.525000" />
+    <ImageTarget name="S46_5" size="0.700000 0.525000" />
+    <ImageTarget name="S46_4" size="0.700000 0.525000" />
+    <ImageTarget name="S46_3" size="0.700000 0.525000" />
+    <ImageTarget name="S46_2" size="0.700000 0.525000" />
+    <ImageTarget name="S46_1" size="0.700000 0.525000" />
+    <ImageTarget name="S38_4" size="0.700000 0.525000" />
+    <ImageTarget name="S38_3" size="0.700000 0.525000" />
+    <ImageTarget name="S38_2" size="0.700000 0.525000" />
+    <ImageTarget name="S38_1" size="0.700000 0.525000" />
+    <ImageTarget name="S26_4" size="0.700000 0.525000" />
+    <ImageTarget name="S26_3" size="0.700000 0.525000" />
+    <ImageTarget name="S26_2" size="0.700000 0.525000" />
+    <ImageTarget name="S26_1" size="0.700000 0.525000" />
+    <ImageTarget name="N76_4" size="0.700000 0.525000" />
+    <ImageTarget name="N76_3" size="0.700000 0.525000" />
+    <ImageTarget name="N76_2" size="0.700000 0.525000" />
+    <ImageTarget name="N76_1" size="0.700000 0.525000" />
+    <ImageTarget name="N64_5" size="0.700000 0.525000" />
+    <ImageTarget name="N64_4" size="0.700000 0.525000" />
+    <ImageTarget name="N64_3" size="0.700000 0.525000" />
+    <ImageTarget name="N64_2" size="0.700000 0.525000" />
+    <ImageTarget name="N64_1" size="0.700000 0.525000" />
+    <ImageTarget name="N57_4" size="0.700000 0.525000" />
+    <ImageTarget name="N57_3" size="0.700000 0.525000" />
+    <ImageTarget name="N57_2" size="0.700000 0.525000" />
+    <ImageTarget name="N57_1" size="0.700000 0.525000" />
+    <ImageTarget name="F4" size="0.700000 0.525000" />
+    <ImageTarget name="F3" size="0.700000 0.525000" />
+    <ImageTarget name="F2" size="0.700000 0.525000" />
+    <ImageTarget name="F1" size="0.700000 0.525000" />
+    <ImageTarget name="panel1" size="1.000000 0.480000" />
+  </Tracking>
+</QCARConfig>

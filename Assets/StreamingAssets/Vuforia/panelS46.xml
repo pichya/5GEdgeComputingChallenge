@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="s46h" size="0.750000 0.834375" />
+    <ImageTarget name="s46g" size="0.750000 0.834375" />
+    <ImageTarget name="s46f" size="0.750000 0.834375" />
+    <ImageTarget name="s46e" size="0.750000 0.834375" />
+    <ImageTarget name="s46d" size="0.750000 0.834375" />
+    <ImageTarget name="s46c" size="0.750000 0.834375" />
+    <ImageTarget name="s46b" size="0.750000 0.834375" />
+    <ImageTarget name="s46a" size="0.750000 0.834375" />
+  </Tracking>
+</QCARConfig>
